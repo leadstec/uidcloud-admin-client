@@ -35,7 +35,6 @@
   "bugs": "https://github.com/leadstec/uidcloud-admin-client/issues",
   "license": "Apache-2.0",
   "dependencies": {
-    "uidcloud-request-token": "leadstec/uidcloud-request-token",
     "request": "^2.69.0"
   },
   "devDependencies": {
